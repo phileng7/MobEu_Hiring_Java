@@ -27,4 +27,4 @@ Run as Java Application with the file path argument like: "\tmp\packages.txt"
 b) JUnit
 Find <i>src/test/java/com.mobiquityinc.PackerTest</i>
 Run As Junit Test
-Observe that if you change the input "packages.txt" you will have to change the <u>expected</u> string.
+Observe that if you change the input "packages.txt" you will have to change the expected string.
